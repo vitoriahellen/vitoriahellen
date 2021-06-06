@@ -4,7 +4,7 @@
 </em></p>
 
 
-[![Linkedin: vitoriahellen](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitoria-hellen-ba5877145/)](https://www.linkedin.com/in/vitoria-hellen-ba5877145/)
+[![Linkedin: vitoriahellen](https://img.shields.io/badge/-vitoriahellen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitoria-hellen-ba5877145/)](https://www.linkedin.com/in/vitoria-hellen-ba5877145/)
 
 
 
