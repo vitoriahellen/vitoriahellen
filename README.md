@@ -1,6 +1,6 @@
 <h2> Olá, sou o Vitoria Hellen! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em> Graduanda do curso de Sistemas de Informação no <a href="https://www.ifnmg.edu.br/porteirinha">IFNMG</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Desenvolvedora de Software em construçaõ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em> Graduanda do curso de Sistemas de Informação no <a href="https://www.ifnmg.edu.br/porteirinha">IFNMG</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Desenvolvedora de Software em construção... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
