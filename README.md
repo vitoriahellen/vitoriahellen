@@ -14,7 +14,7 @@
 
 const vitoria = {
   pronomes: "ela" | "sua",
-  código: [Javascript, Typescript, HTML, CSS, Php, Java],
+  código: [Javascript, Rect.js, HTML, CSS, Node.js, Express.js],
 
 }
 ```
