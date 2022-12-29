@@ -13,7 +13,7 @@
 ```javascript
 
 const vitoria = {
-  pronomes: "ela" | "sua",
+  pronomes: "ela" | "dela",
   código: [Javascript, Rect.js, HTML, CSS, Node.js, Express.js],
 
 }
