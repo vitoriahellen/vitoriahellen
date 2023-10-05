@@ -1,6 +1,6 @@
 <h2> Olá, sou Vitoria Hellen! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p></br><em> Analista de Sistemas formada em Sistemas de Informação pelo <a href="https://www.ifnmg.edu.br/porteirinha">IFNMG</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Desenvolvedora Front-End <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p></br><em> Analista de Sistemas formada em Sistemas de Informação pelo <a href="https://www.ifnmg.edu.br/porteirinha">IFNMG</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Programadora Java <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
 
@@ -14,7 +14,7 @@
 
 const vitoria = {
   pronomes: "ela" | "dela",
-  código: [Javascript, Rect.js, HTML, CSS, Node.js, Express.js],
+  código: [Java, Spring Boot, MySQL, Maven, HTML, CSS, Node.js, Express.js],
 
 }
 ```
