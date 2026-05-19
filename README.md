@@ -1,31 +1,77 @@
+<div align="center">
 
-<h2> Olá, sou Vitoria Hellen! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p></br><em> Olá, sou Vitória Hellen, uma profissional apaixonada por tecnologia com mais de 4 anos de experiência na área, onde atuei principalmente na área de gestão de T.I. Sou Bacharel em Sistemas de Informação pelo IFNMG e atualmente estou concentrando meus esforços e estudos no mundo Java. 
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60">
 
-💻 Minhas principais competências incluem:
-Programação com Java, Spring Boot, MySQL, Spring Data MongoDB, além do MySQL, também estou familiarizada com bancos de dados NoSQL, como o MongoDB, para abordagens flexíveis. JavaFX, Git / GitHub, Maven e JDBC.
+# Vitoria Hellen
 
-🚀 Estou sempre em busca de novos desafios e oportunidades de aprendizado na área de tecnologia. Acredito que a inovação e o crescimento constante são essenciais para o sucesso no nosso campo em constante evolução. Vamos conectar? Estou sempre aberta a novas conexões e oportunidades emocionantes na área de tecnologia. Não hesite em entrar em contato! <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</em></p>
+**Analista de Suporte & Desenvolvedora Python**
+
+*Transformando dados em decisões e processos em automação*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vitoriahellen-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-hellen-ba5877145/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+</div>
+
+---
+
+## 👩‍💻 Sobre mim
+
+Sou Vitória Hellen, Bacharel em Sistemas de Informação pelo IFNMG, com mais de 4 anos de experiência em T.I. Atualmente atuo como **Analista ITIL**, onde combino habilidades técnicas com visão analítica para resolver problemas complexos e automatizar processos.
 
 
-[![Linkedin: vitoriahellen](https://img.shields.io/badge/-vitoriahellen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitoria-hellen-ba5877145/)](https://www.linkedin.com/in/vitoria-hellen-ba5877145/)
+---
 
+## 🛠️ Stack atual
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco mais sobre mim...  
-
-```javascript
-
-const vitoria = {
-  pronomes: "ela" | "dela",
-  código: [Java, Spring Boot, MySQL, Maven, HTML, CSS, Node.js, Express.js],
-
+```python
+vitoria = {
+    "linguagens":    ["Python", "SQL", "JavaScript"],
+    "dados":         ["Pandas", "análise de dados", "relatórios automatizados"],
+    "banco_dados":   ["MySQL", "SQL Server", "MongoDB"],
+    "integrações":   ["REST APIs", "Movidesk API", "OData"],
+    "automação":     ["GitHub Actions", "scripts agendados", "ETL simples"],
+    "ferramentas":   ["Git", "GitHub", "VS Code", "Postman"],
+    "em_estudo":     ["Power BI", "Python avançado", "Java / Spring Boot"],
 }
 ```
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <em>  <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :) </em>
+### 📊 Análise de dados com SQL e Python
+- Extração e tratamento de dados de sistemas de gestão
+- Geração de relatórios automatizados
+- **Stack:** Python · Pandas · MySQL · SQL Server
 
-⭐️ 
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Vitoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriahellen&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriahellen&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+Aberta a conexões, colaborações e novos desafios!
+
+[![LinkedIn](https://img.shields.io/badge/Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-hellen-ba5877145/)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em>Sempre aberta a novas conexões e oportunidades na área de tecnologia!</em>
+
+</div>
+
+---
+
+<div align="center">
+<sub>Feito com 💙 por Vitoria Hellen</sub>
+</div>
