@@ -8,7 +8,7 @@
 
 *Transformando dados em decisões e processos em automação*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vitoriahellen-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-hellen-ba5877145/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vitoriahellen-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-hellen-nunes)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
@@ -64,7 +64,7 @@ vitoria = {
 
 Aberta a conexões, colaborações e novos desafios!
 
-[![LinkedIn](https://img.shields.io/badge/Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-hellen-ba5877145/)
+[![LinkedIn](https://img.shields.io/badge/Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-hellen-nunes/)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em>Sempre aberta a novas conexões e oportunidades na área de tecnologia!</em>
 
